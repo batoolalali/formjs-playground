@@ -1,0 +1,11 @@
+.fjs-powered-by{
+    display: none !important;
+}
+
+.fjs-container{
+    display: none;
+}
+
+.fjs-container:nth-child(1){
+    display: block;
+}

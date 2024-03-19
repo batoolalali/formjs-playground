@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 2,
+    "exporter": {
+      "name": "Camunda Modeler",
+      "version": "5.0.0-alpha.1"
+    },
+    "components":[],
+    "type": "default",
+    "id": "Form_1v99ha5",
+    "executionPlatform": "Camunda Platform",
+    "executionPlatformVersion": "7.16.0"
+  }
+  
